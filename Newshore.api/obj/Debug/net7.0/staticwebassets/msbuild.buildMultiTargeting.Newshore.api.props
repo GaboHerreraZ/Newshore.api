@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Newshore.api.props" />
+</Project>
